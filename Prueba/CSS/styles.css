@@ -1,0 +1,63 @@
+header{
+    background-color: rgb(63, 61, 61);
+}
+label{
+    color: gold;
+}
+h1,p{
+    color: gold;
+}
+body{
+    background-color: black;
+}
+img{
+    padding-top: 30px;
+    height: 70px;
+    width: 100px;
+}
+.container{
+    text-align: center;
+}
+.logo{
+    padding-left: 0px;
+}
+a{
+    color: gold;
+    font-size: 20px;
+    padding: 10px;
+}
+section {
+    padding: 2px;
+    background-color: gold;
+    border-radius: 5px;
+    margin: 10px auto;
+    max-width: 8000px;
+  }
+  
+.texto_header{
+text-align: right;
+}
+
+/*Web.html*/
+
+.Indice{
+background-color: black;
+color: gold;
+text-align: center;
+justify-content: center;
+}
+.Descargar_Imagen{
+text-align: center;
+padding: 10px;
+}
+.related-content {
+    display: flex; 
+    justify-content: center;
+}
+
+.related-item {
+    width: 100px;
+    height: 150px; 
+    margin-right: 50px; 
+    text-align: center; 
+}
